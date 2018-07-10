@@ -6,53 +6,53 @@ view few  lines of words collection<br>
 {'_id': ObjectId('5b42661ed5ee89c674decd26'), 'location': 'London', 'word': 'veterans', 'count': 5}<br>
 
 
-========================================================
-******** view top words by location filtered from tweets about:  ['trump']
+========================================================<br>
+******** view top words by location filtered from tweets about:  ['trump']<br>
 
 
-========================================================
-******* Top words in:  London
-president 137
-donald 126
-us 116
-administration 104
-putin 99
+========================================================<br>
+******* Top words in:  London<br>
+president 137<br>
+donald 126<br>
+us 116<br>
+administration 104<br>
+putin 99<br>
 
-========================================================
-******* Top words in:  Washington
-president 246
-donald 190
-realdonaldtrump 159
-administration 152
-court 148
+========================================================<br>
+******* Top words in:  Washington<br>
+president 246<br>
+donald 190<br>
+realdonaldtrump 159<br>
+administration 152<br>
+court 148<br>
 
-========================================================
-******* Top words in:  NewYork
-president 279
-giuliani 189
-know 184
-donald 172
-realdonaldtrump 167
+========================================================<br>
+******* Top words in:  NewYork<br>
+president 279<br>
+giuliani 189<br>
+know 184<br>
+donald 172<br>
+realdonaldtrump 167<br>
 
-========================================================
-******* Top words in:  California
-president 312
-realdonaldtrump 188
-know 187
-mueller 185
-donald 182
+========================================================<br>
+******* Top words in:  California<br>
+president 312<br>
+realdonaldtrump 188<br>
+know 187<br>
+mueller 185<br>
+donald 182<br>
 
-========================================================
-******** view most frequent words by location, from all location
+========================================================<br>
+******** view most frequent words by location, from all location<br>
 
-president CA 312
-president NY 279
-president Washington 246
-donald Washington 190
-giuliani NY 189
+president CA 312<br>
+president NY 279<br>
+president Washington 246<br>
+donald Washington 190<br>
+giuliani NY 189<br>
 
-========================================================
-******** view top words counted over all location
+========================================================<br>
+******** view top words counted over all location<br>
 
 * president 974
 * donald 670
