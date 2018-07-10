@@ -1,9 +1,9 @@
-view few  lines of words collection
-{'_id': ObjectId('5b42661ed5ee89c674decd0f'), 'location': 'London', 'word': 'realmuckmaker', 'count': 2}
-{'_id': ObjectId('5b42661ed5ee89c674decd13'), 'location': 'CA', 'word': 'cnnpolitics', 'count': 5}
-{'_id': ObjectId('5b42661ed5ee89c674decd1b'), 'location': 'London', 'word': 'consider', 'count': 3}
-{'_id': ObjectId('5b42661ed5ee89c674decd1e'), 'location': 'CA', 'word': 'president', 'count': 312}
-{'_id': ObjectId('5b42661ed5ee89c674decd26'), 'location': 'London', 'word': 'veterans', 'count': 5}
+view few  lines of words collection<br>
+{'_id': ObjectId('5b42661ed5ee89c674decd0f'), 'location': 'London', 'word': 'realmuckmaker', 'count': 2}<br>
+{'_id': ObjectId('5b42661ed5ee89c674decd13'), 'location': 'CA', 'word': 'cnnpolitics', 'count': 5}<br>
+{'_id': ObjectId('5b42661ed5ee89c674decd1b'), 'location': 'London', 'word': 'consider', 'count': 3}<br>
+{'_id': ObjectId('5b42661ed5ee89c674decd1e'), 'location': 'CA', 'word': 'president', 'count': 312}<br>
+{'_id': ObjectId('5b42661ed5ee89c674decd26'), 'location': 'London', 'word': 'veterans', 'count': 5}<br>
 
 
 ========================================================
