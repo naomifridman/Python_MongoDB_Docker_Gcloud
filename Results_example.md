@@ -54,44 +54,44 @@ giuliani NY 189
 ========================================================
 ******** view top words counted over all location
 
-president 974
-donald 670
-giuliani 575
-administration 572
-realdonaldtrump 560
+* president 974
+* donald 670
+* giuliani 575
+* administration 572
+* realdonaldtrump 560
 ========================================================
 
 ********** View top-words that apear in all the locations **
 
 ***:  president 974
-president CA 312
-president London 137
-president Washington 246
-president NY 279
+* president CA 312
+* president London 137
+* president Washington 246
+* president NY 279
 
 ***:  donald 670
-donald Washington 190
-donald CA 182
-donald London 126
-donald NY 172
+* donald Washington 190
+* donald CA 182
+* donald London 126
+* donald NY 172
 
 ***:  giuliani 575
-giuliani CA 176
-giuliani NY 189
-giuliani Washington 139
-giuliani London 71
+* giuliani CA 176
+* giuliani NY 189
+* giuliani Washington 139
+* giuliani London 71
 
 ***:  administration 572
-administration London 104
-administration CA 154
-administration Washington 152
-administration NY 162
+* administration London 104
+* administration CA 154
+* administration Washington 152
+* administration NY 162
 
 ***:  realdonaldtrump 560
-realdonaldtrump Washington 159
-realdonaldtrump London 46
-realdonaldtrump CA 188
-realdonaldtrump NY 167
+* realdonaldtrump Washington 159
+* realdonaldtrump London 46
+* realdonaldtrump CA 188
+* realdonaldtrump NY 167
 
 ********** View top-words that apear in one locations **
 None
